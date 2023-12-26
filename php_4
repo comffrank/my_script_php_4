@@ -13,7 +13,7 @@ $numText = "";
     break;
   case 2:
     $numText = "Two";
-    break;
+    break; ###breaks
   case 3:
   case 4:
     // case 3 and 4 will go to this line
@@ -31,7 +31,7 @@ $numText = "";
     $numText = "unknown";
   }
   
-  //display result
+  //display result ###results
   echo 'Dice show number '.$numText.'.';
 
 ?>
