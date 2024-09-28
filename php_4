@@ -1,3 +1,4 @@
+###### test php scripts ######
 <?php
 //initialize with a random integer within range
 $diceNumber = mt_rand(1, 6);
